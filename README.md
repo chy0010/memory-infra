@@ -45,16 +45,6 @@ Follow the journey: [[LinkedIn](#)](https://www.linkedin.com/in/krishna-profile-
 - Claude / OpenAI APIs for the agent layer
 - Neo4j or Kuzu for the knowledge graph (later phase)
 
-## Roadmap
-
--  Project announced
--  Week 1: Basic vector storage and retrieval
--  Hybrid search (BM25 + vector)
--  Agentic retrieval loop
--  Knowledge graph layer
--  Evaluation harness
--  Continuous learning pipeline
--  Public benchmark post
 
 ## License
 
