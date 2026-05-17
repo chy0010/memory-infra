@@ -47,14 +47,14 @@ Follow the journey: [[LinkedIn](#)](https://www.linkedin.com/in/krishna-profile-
 
 ## Roadmap
 
-- [x] Project announced
-- [ ] Week 1: Basic vector storage and retrieval
-- [ ] Hybrid search (BM25 + vector)
-- [ ] Agentic retrieval loop
-- [ ] Knowledge graph layer
-- [ ] Evaluation harness
-- [ ] Continuous learning pipeline
-- [ ] Public benchmark post
+-  Project announced
+-  Week 1: Basic vector storage and retrieval
+-  Hybrid search (BM25 + vector)
+-  Agentic retrieval loop
+-  Knowledge graph layer
+-  Evaluation harness
+-  Continuous learning pipeline
+-  Public benchmark post
 
 ## License
 
